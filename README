@@ -6,6 +6,6 @@ Fifty healthy adult subjects with no prior history of neurological or psychiatri
 - Functional data: each subject underwent an fMRI scan with blocs of CO2 inhalation challenges.
 - Physiological data: breath CO2 was recorded using a capnograph during the fMRI acquisition.
 
-The goal is to provide a normative dataset for the computation of maps of Cerebrovascular Reactivity Maps. For this purpose, we developed CVRmap, a BIDS-compatible pipeline to process the data. More information on CVRmap can be found on the github page 
+The goal is to provide a normative dataset for the computation of maps of Cerebrovascular Reactivity Maps. For this purpose, we developed CVRmap, a BIDS-compatible pipeline to process the data. More information on CVRmap can be found on the corresponding github page:
 
 `github.com/ln2t/cvrmap`.
