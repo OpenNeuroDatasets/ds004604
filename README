@@ -17,7 +17,7 @@ The goal is to provide a normative dataset for the computation of maps of Cerebr
 ## Derivatives
 
 - `derivatives/fmriprep_v21.0.4`: output of fMRIPrep with the `--use-aroma` option enabled.
-- `derivatives/cvrmap_v1.0`: output of CVRmap (`www.github.com/ln2t/cvrmap`), version v1.0.
+- `derivatives/cvrmap_2.0.20`: output of CVRmap (`www.github.com/ln2t/cvrmap`), version 2.0.20.
 
 ## Further analysis
 
