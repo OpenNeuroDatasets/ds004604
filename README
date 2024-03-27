@@ -8,6 +8,8 @@ The goal is to provide a normative dataset for the computation of maps of Cerebr
 
 `www.github.com/ln2t/cvrmap`.
 
+The paper describing CVRmap and this dataset can be found [here](https://rdcu.be/dCCZW).
+
 ## Rawdata
 
 - Anatomical data: a standard T1w image was acquired for each subject.
