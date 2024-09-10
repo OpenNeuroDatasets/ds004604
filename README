@@ -20,6 +20,9 @@ The paper describing CVRmap and this dataset can be found [here](https://rdcu.be
 
 - `derivatives/fmriprep_v21.0.4`: output of fMRIPrep with the `--use-aroma` option enabled.
 - `derivatives/cvrmap_2.0.20`: output of CVRmap (`www.github.com/ln2t/cvrmap`), version 2.0.20.
+- `derivatives/cvrmap_2.0.25`: output of CVRmap (`www.github.com/ln2t/cvrmap`), version 2.0.25.
+- `derivatives/cvrmap_2.0.25_gs`: output of CVRmap (`www.github.com/ln2t/cvrmap`), version 2.0.25, with the global signal option.
+- `derivatives/cvrmap_2.0.25_vs`: output of CVRmap (`www.github.com/ln2t/cvrmap`), version 2.0.25, with the vessel signal option.
 
 ## Further analysis
 
